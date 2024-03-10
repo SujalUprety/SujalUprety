@@ -11,7 +11,7 @@
 
 **✨ Projects:**
 
-* **EhhLang** - This is my own language which is used for creating image. [EhhLang Documentation](https://ehhlang.github.io/ehhlang.html) -  [C#, OpenCV]
+* **EhhLang** - This is my own language which is used for creating image. [EhhLang Documentation](https://ehhlang.github.io/ehhlang.html) [EhhLang Compiler](https://github.com/EhhLang/EhhLang.github.io/releases)-  [C#, OpenCV]
 * **Games in Unity** - [Click Here](https://sujalisdead.itch.io) to access all the games made by me in Unity Engine. And Some of them are made for Game Jams - [C#, Unity]
 * **Text Ehhditor** - This is a simple Text Editor made by using Java which only does simple text editing like Notepad. This Text Editor also have so many themes. [Text Ehhditor Repository](https://github.com/SujalUprety/Text-Ehhditor) - [Java]
 
