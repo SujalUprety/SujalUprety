@@ -18,6 +18,6 @@
 **💬 How to Reach Me:**
 
 * [<img src="facebook.svg" alt="Facebook" width="30px" height="30px">](https://www.facebook.com/SujalisDead)
-* [<img src="instagram.png" alt="Instagram" width="30px" height="30px">](https://www.instagram.com/sujal_isdead/)
-* [<img src="linkedin.png" alt="LinkedIn" width="30px" height="30px">](https://www.linkedin.com/in/sujal-uprety-92765019a/)
-* [<img src="youtube.png" alt="Youtube" width="30px" height="30px">](https://https://www.youtube.com/@SujalUprety/)
+  [<img src="instagram.png" alt="Instagram" width="30px" height="30px">](https://www.instagram.com/sujal_isdead/)
+  [<img src="linkedin.png" alt="LinkedIn" width="30px" height="30px">](https://www.linkedin.com/in/sujal-uprety-92765019a/)
+  [<img src="youtube.png" alt="Youtube" width="30px" height="30px">](https://https://www.youtube.com/@SujalUprety/)
