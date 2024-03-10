@@ -15,3 +15,9 @@
 * **Games in Unity** - [Click Here](https://sujalisdead.itch.io) to access all the games made by me in Unity Engine. And Some of them are made for Game Jams - [C#, Unity]
 * **Text Ehhditor** - This is a simple Text Editor made by using Java which only does simple text editing like Notepad. This Text Editor also have so many themes. [Text Ehhditor Repository](https://github.com/SujalUprety/Text-Ehhditor) - [Java]
 
+**💬 How to Reach Me:**
+
+* [![Facebook](facebook.svg)](https://www.facebook.com/SujalisDead)
+* [![Instagram](instagram.png)](https://www.instagram.com/sujal_isdead/)
+* [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/sujal-uprety-92765019a/)
+* [![Youtube](youtube.png)](https://https://www.youtube.com/@SujalUprety/)
