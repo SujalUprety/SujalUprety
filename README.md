@@ -1,16 +1,26 @@
-### Hi there 👋
+**👋 Hi there, I'm [Your Name/Username]!**
 
-<!--
-**SujalUprety/SujalUprety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[Brief description of yourself (student, professional, hobbyist, etc.) and your interests in tech]**
 
-Here are some ideas to get you started:
+**💻 Skills & Technologies:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Skill 1] 
+* [Skill 2]
+* [Skill 3]
+* ... (consider adding badges from shields.io)
+
+**✨ Projects:**
+
+* **[Project Name 1]** - [Short description] ([Link to repo]) -  [Tech used]
+* **[Project Name 2]** - [Short description] ([Link to repo]) -  [Tech used]
+* ...
+
+**🌱 Currently Learning/Exploring:**
+
+* [Technology/skill you're currently interested in]
+
+**💬 How to Reach Me:**
+
+* [Your preferred contact method]
+
+**🤝 Open to Collaborations and Contributions!** 
