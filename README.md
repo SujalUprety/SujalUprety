@@ -1,7 +1,7 @@
 **👋 Hi there, I'm Sujal Uprety! 😎**
 
 * "I do things that I want in my own way. 😎 💻" 
-* "I develop Games 🎮 for my pleasure and do other stuff to satisfy me and myself. 😉"
+* "I develop Games 🎮 for my own pleasure and do other stuff to satisfy me and myself. 😉"
 
 **💻 Skills & Technologies:**
 
